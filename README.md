@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="Icon.png" width="128" alt="RetroView">
+</p>
 
 <h1 align="center">RetroView</h1>
 
