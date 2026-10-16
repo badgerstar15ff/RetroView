@@ -132,6 +132,3 @@ python RetroView.py
 
 
 
-## Лицензия
-
-Иконка — CC0 1.0 Universal (Public Domain).
