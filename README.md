@@ -129,7 +129,7 @@ python RetroView.py
 
 ## Исходный код
 
-Исходный код **не публикуется**. Если он нужен — пиши в Telegram: **[@@BadgerStar15](https://t.me/@BadgerStar15)**.
+Исходный код **не публикуется**. Если он нужен — пиши в Telegram: **[@BadgerStar15](https://t.me/BadgerStar15)**.
 
 ---
 
